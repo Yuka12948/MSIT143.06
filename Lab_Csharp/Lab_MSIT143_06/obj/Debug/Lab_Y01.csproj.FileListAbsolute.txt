@@ -1,0 +1,10 @@
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.csprojAssemblyReference.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Form1.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.csproj.GenerateResource.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.csproj.CoreCompileInputs.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb

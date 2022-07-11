@@ -1,0 +1,217 @@
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csprojAssemblyReference.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+C:\shared\C#\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.Frm_HelloFrom.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_MenuOrder.resources
+C:\shared\C#\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.Frm_Loan.resources
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.AssemblyReference.cache
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.Frm_HelloFrom.resources
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_MenuOrder.resources
+D:\C#\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.Frm_Loan.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csprojAssemblyReference.cache
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.AssemblyReference.cache
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+F:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+E:\MSIT_143_06\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csprojAssemblyReference.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.Frm_Lab08_MyClac.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe.config
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.exe
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\Lab_Y01.pdb
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.AssemblyReference.cache
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab08_MyClac.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.Properties.Resources.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.exe
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_Y01.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+F:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe.config
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.pdb
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.AssemblyReference.cache
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab08_MyClac.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.Properties.Resources.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.exe
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe.config
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csprojAssemblyReference.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab08_MyClac.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.Properties.Resources.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.exe
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.pdb
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab09_ForDoWhile.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab13_Paint.resources
+E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab14_PictureViewer.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab09_ForDoWhile.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab13_Paint.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab14_PictureViewer.resources
+G:\MSIT_143_06_Csharp\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe.config
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.pdb
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.AssemblyReference.cache
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab08_MyClac.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab09_ForDoWhile.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab13_Paint.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab14_PictureViewer.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.Properties.Resources.resources
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.exe
+G:\Lab_Csharp (220711備份原檔)\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.pdb
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe.config
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.exe
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\bin\Debug\Lab_MSIT143_06.pdb
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csprojAssemblyReference.cache
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab00_OpenMenu.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab01_HelloFrom.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab03_MenuOrder.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab02_Loan_Report.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab04_Student_StructForm.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab05_StudentsGrade.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab06_StudentsGradeList.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab07_Method.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab08_MyClac.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab09_ForDoWhile.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab10_TicTacToe.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab12_Notepad.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab13_Paint.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab14_PictureViewer.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumber.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab15_GuessNumberStart.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.frm_Lab16_Alarm.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.Properties.Resources.resources
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.GenerateResource.cache
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.csproj.CoreCompileInputs.cache
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.exe
+C:\shared\C#上傳\Lab_Csharp\Lab_MSIT143_06\obj\Debug\Lab_MSIT143_06.pdb

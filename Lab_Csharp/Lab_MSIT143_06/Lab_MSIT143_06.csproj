@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2B389FA9-737D-4EFB-B5AB-B367B9AA832D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Lab_MSIT143_06</RootNamespace>
+    <AssemblyName>Lab_MSIT143_06</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frm_Lab09_ForDoWhile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab09_ForDoWhile.Designer.cs">
+      <DependentUpon>frm_Lab09_ForDoWhile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab10.Designer.cs">
+      <DependentUpon>frm_Lab10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab08_MyClac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab08_MyClac.Designer.cs">
+      <DependentUpon>frm_Lab08_MyClac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab10_TicTacToe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab10_TicTacToe.Designer.cs">
+      <DependentUpon>frm_Lab10_TicTacToe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab12_Notepad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab12_Notepad.Designer.cs">
+      <DependentUpon>frm_Lab12_Notepad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab13_Paint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab13_Paint.Designer.cs">
+      <DependentUpon>frm_Lab13_Paint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab14_PictureViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab14_PictureViewer.Designer.cs">
+      <DependentUpon>frm_Lab14_PictureViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab15_GuessNumber.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab15_GuessNumber.Designer.cs">
+      <DependentUpon>frm_Lab15_GuessNumber.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab15_GuessNumberStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab15_GuessNumberStart.Designer.cs">
+      <DependentUpon>frm_Lab15_GuessNumberStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab16_Alarm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab16_Alarm.Designer.cs">
+      <DependentUpon>frm_Lab16_Alarm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Student.cs" />
+    <Compile Include="frm_Lab00_OpenMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab00_OpenMenu.Designer.cs">
+      <DependentUpon>frm_Lab00_OpenMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab01_HelloForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab01_HelloForm.Designer.cs">
+      <DependentUpon>frm_Lab01_HelloForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab03_Menu Order.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab03_Menu Order.Designer.cs">
+      <DependentUpon>frm_Lab03_Menu Order.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab02_Loan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab02_Loan.Designer.cs">
+      <DependentUpon>frm_Lab02_Loan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab02_Loan_Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab02_Loan_Report.Designer.cs">
+      <DependentUpon>frm_Lab02_Loan_Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab04_Student_StructForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab04_Student_StructForm.Designer.cs">
+      <DependentUpon>frm_Lab04_Student_StructForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab05_StudentsGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab05_StudentsGrade.Designer.cs">
+      <DependentUpon>frm_Lab05_StudentsGrade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab06_StudentsGradeList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab06_StudentsGradeList.Designer.cs">
+      <DependentUpon>frm_Lab06_StudentsGradeList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_Lab07_Method.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_Lab07_Method.Designer.cs">
+      <DependentUpon>frm_Lab07_Method.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frm_Lab00_OpenMenu.resx">
+      <DependentUpon>frm_Lab00_OpenMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab01_HelloForm.resx">
+      <DependentUpon>frm_Lab01_HelloForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab03_Menu Order.resx">
+      <DependentUpon>frm_Lab03_Menu Order.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab02_Loan.resx">
+      <DependentUpon>frm_Lab02_Loan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab02_Loan_Report.resx">
+      <DependentUpon>frm_Lab02_Loan_Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab04_Student_StructForm.resx">
+      <DependentUpon>frm_Lab04_Student_StructForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab05_StudentsGrade.resx">
+      <DependentUpon>frm_Lab05_StudentsGrade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab06_StudentsGradeList.resx">
+      <DependentUpon>frm_Lab06_StudentsGradeList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab07_Method.resx">
+      <DependentUpon>frm_Lab07_Method.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab08_MyClac.resx">
+      <DependentUpon>frm_Lab08_MyClac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab09_ForDoWhile.resx">
+      <DependentUpon>frm_Lab09_ForDoWhile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab10.resx">
+      <DependentUpon>frm_Lab10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab10_TicTacToe.resx">
+      <DependentUpon>frm_Lab10_TicTacToe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab12_Notepad.resx">
+      <DependentUpon>frm_Lab12_Notepad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab13_Paint.resx">
+      <DependentUpon>frm_Lab13_Paint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab14_PictureViewer.resx">
+      <DependentUpon>frm_Lab14_PictureViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab15_GuessNumber.resx">
+      <DependentUpon>frm_Lab15_GuessNumber.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab15_GuessNumberStart.resx">
+      <DependentUpon>frm_Lab15_GuessNumberStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_Lab16_Alarm.resx">
+      <DependentUpon>frm_Lab16_Alarm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
