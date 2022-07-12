@@ -253,7 +253,7 @@ namespace Lab_MSIT143_06
                 自動換行.CheckState = CheckState.Unchecked;
                 richTextBox.Multiline = true;
                 richTextBox.WordWrap = false;
-                richTextBox.ScrollBars = (RichTextBoxScrollBars)ScrollBars.Horizontal;
+                richTextBox.ScrollBars = RichTextBoxScrollBars.Horizontal;
 
             }
             else if (checkState == false)
@@ -261,7 +261,7 @@ namespace Lab_MSIT143_06
                 自動換行.CheckState = CheckState.Checked;
                 richTextBox.Multiline = true;
                 richTextBox.WordWrap = true;
-                richTextBox.ScrollBars = (RichTextBoxScrollBars)ScrollBars.Vertical;
+                richTextBox.ScrollBars = RichTextBoxScrollBars.ForcedVertical;
             }
             checkState = !checkState;
         }

@@ -563,7 +563,7 @@ namespace Lab_MSIT143_06
             // 
             this.txt_ReadWrite.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.txt_ReadWrite.Font = new System.Drawing.Font("微軟正黑體", 14F);
-            this.txt_ReadWrite.Location = new System.Drawing.Point(831, 59);
+            this.txt_ReadWrite.Location = new System.Drawing.Point(831, 95);
             this.txt_ReadWrite.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.txt_ReadWrite.Multiline = true;
             this.txt_ReadWrite.Name = "txt_ReadWrite";
@@ -591,7 +591,7 @@ namespace Lab_MSIT143_06
             this.richTextBox.Font = new System.Drawing.Font("微軟正黑體", 14F);
             this.richTextBox.Location = new System.Drawing.Point(12, 95);
             this.richTextBox.Name = "richTextBox";
-            this.richTextBox.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.Vertical;
+            this.richTextBox.ScrollBars = System.Windows.Forms.RichTextBoxScrollBars.ForcedVertical;
             this.richTextBox.Size = new System.Drawing.Size(880, 496);
             this.richTextBox.TabIndex = 3;
             this.richTextBox.Text = "";
