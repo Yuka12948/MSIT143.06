@@ -37,7 +37,7 @@ namespace Lab_MSIT143_06
 
         private void 開啟新檔_Click(object sender, EventArgs e)
         {
-            //判定內容有無修改 有>>提示是否儲存 無>>Clear
+            //判定內容有無修改 有>>提示是否儲存 無 >> Clear
             if (OPfileDialog.FileName != "" && richboxTextHasChanged == true && MessageBox.Show($"要儲存對 {Name} 內容的變更嗎?", "資訊提示", MessageBoxButtons.OKCancel) == DialogResult.OK)
             {
                 //儲存
