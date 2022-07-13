@@ -26,7 +26,6 @@ namespace Lab_MSIT143_06
             Lab01.Top = 20;
             Lab01.Left = 20;
             splitContainer.Panel2.Controls.Add(Lab01);
-            splitContainer.Panel2.Controls.Add(btn_Lab02);
             Lab01.Show();
         }
 

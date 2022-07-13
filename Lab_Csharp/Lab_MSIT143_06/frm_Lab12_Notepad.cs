@@ -222,6 +222,7 @@ namespace Lab_MSIT143_06
 
         private void 尋找_Click(object sender, EventArgs e)
         {
+            directorySearcher.SearchScope = System.DirectoryServices.SearchScope.Subtree;
             ////SqlDataSource1.SelectCommand = "SELECT [Title], [Content], [Date], [Id] FROM [Table]";
             //if (!string.IsNullOrWhiteSpace(txtSearch.Text))
             //{

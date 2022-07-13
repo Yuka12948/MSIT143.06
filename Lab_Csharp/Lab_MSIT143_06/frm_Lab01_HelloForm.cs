@@ -18,7 +18,8 @@ namespace Lab_MSIT143_06
             InitializeComponent();
 
             date_Picker.Value = DateTime.Today;
-            //date_Picker.Format = DateTimePickerFormat.Long;
+            // 控制項顯示自訂的日期格式
+            //date_Picker.Format = DateTimePickerFormat.Custom;
             //date_Picker.CustomFormat = "yyyy - MM - dd";
         }
 
@@ -104,7 +105,7 @@ namespace Lab_MSIT143_06
                 $"自己確認資料吧~\n\n✧(ಡωಡ)✧(ಡωಡ)✧(ಡωಡ)✧", "Just kidding");
         }
         #region
-        //判斷輸入框有無文字 //若無Textbox顯示提醒字樣 //bug還沒除完
+        // 判斷Textbox有無輸入文字 若無 >> Textbox顯示提醒字樣 (bug還沒除完)
         //bool textboxHasText = false;
         private void txt_Name_Enter(object sender, EventArgs e)
         {

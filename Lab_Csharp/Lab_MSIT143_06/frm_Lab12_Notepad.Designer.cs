@@ -87,6 +87,7 @@ namespace Lab_MSIT143_06
             this.colorDialog = new System.Windows.Forms.ColorDialog();
             this.printDialog = new System.Windows.Forms.PrintDialog();
             this.pageSetupDialog = new System.Windows.Forms.PageSetupDialog();
+            this.directorySearcher = new System.DirectoryServices.DirectorySearcher();
             this.menuStrip.SuspendLayout();
             this.toolStrip.SuspendLayout();
             this.SuspendLayout();
@@ -600,6 +601,12 @@ namespace Lab_MSIT143_06
             // 
             this.printDialog.UseEXDialog = true;
             // 
+            // directorySearcher
+            // 
+            this.directorySearcher.ClientTimeout = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher.ServerPageTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            this.directorySearcher.ServerTimeLimit = System.TimeSpan.Parse("-00:00:01");
+            // 
             // frm_Lab12_Notepad
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
@@ -684,5 +691,6 @@ namespace Lab_MSIT143_06
         private System.Windows.Forms.ColorDialog colorDialog;
         private System.Windows.Forms.PrintDialog printDialog;
         private System.Windows.Forms.PageSetupDialog pageSetupDialog;
+        private System.DirectoryServices.DirectorySearcher directorySearcher;
     }
 }
