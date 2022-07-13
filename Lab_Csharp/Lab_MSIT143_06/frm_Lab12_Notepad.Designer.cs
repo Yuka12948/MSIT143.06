@@ -80,7 +80,7 @@ namespace Lab_MSIT143_06
             this.toolBtn_Search = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator10 = new System.Windows.Forms.ToolStripSeparator();
             this.toolBtn_About = new System.Windows.Forms.ToolStripButton();
-            this.txt_ReadWrite = new System.Windows.Forms.TextBox();
+            this.txt_ReadWrite_Temp = new System.Windows.Forms.TextBox();
             this.printPreviewDialog = new System.Windows.Forms.PrintPreviewDialog();
             this.printDocument = new System.Drawing.Printing.PrintDocument();
             this.richTextBox = new System.Windows.Forms.RichTextBox();
@@ -559,17 +559,17 @@ namespace Lab_MSIT143_06
             this.toolBtn_About.Text = "關於 (A)";
             this.toolBtn_About.Click += new System.EventHandler(this.關於_Click);
             // 
-            // txt_ReadWrite
+            // txt_ReadWrite_Temp
             // 
-            this.txt_ReadWrite.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txt_ReadWrite.Font = new System.Drawing.Font("微軟正黑體", 14F);
-            this.txt_ReadWrite.Location = new System.Drawing.Point(831, 95);
-            this.txt_ReadWrite.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.txt_ReadWrite.Multiline = true;
-            this.txt_ReadWrite.Name = "txt_ReadWrite";
-            this.txt_ReadWrite.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.txt_ReadWrite.Size = new System.Drawing.Size(61, 33);
-            this.txt_ReadWrite.TabIndex = 2;
+            this.txt_ReadWrite_Temp.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txt_ReadWrite_Temp.Font = new System.Drawing.Font("微軟正黑體", 14F);
+            this.txt_ReadWrite_Temp.Location = new System.Drawing.Point(831, 95);
+            this.txt_ReadWrite_Temp.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
+            this.txt_ReadWrite_Temp.Multiline = true;
+            this.txt_ReadWrite_Temp.Name = "txt_ReadWrite_Temp";
+            this.txt_ReadWrite_Temp.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
+            this.txt_ReadWrite_Temp.Size = new System.Drawing.Size(61, 33);
+            this.txt_ReadWrite_Temp.TabIndex = 2;
             // 
             // printPreviewDialog
             // 
@@ -606,7 +606,7 @@ namespace Lab_MSIT143_06
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(904, 601);
             this.Controls.Add(this.richTextBox);
-            this.Controls.Add(this.txt_ReadWrite);
+            this.Controls.Add(this.txt_ReadWrite_Temp);
             this.Controls.Add(this.toolStrip);
             this.Controls.Add(this.menuStrip);
             this.Font = new System.Drawing.Font("微軟正黑體", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
@@ -674,7 +674,7 @@ namespace Lab_MSIT143_06
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator10;
         private System.Windows.Forms.ToolStripButton toolBtn_About;
         private System.Windows.Forms.ToolStripMenuItem 幫助;
-        private System.Windows.Forms.TextBox txt_ReadWrite;
+        private System.Windows.Forms.TextBox txt_ReadWrite_Temp;
         private System.Windows.Forms.ToolStripButton toolBtn_Undo;
         private System.Windows.Forms.ToolStripButton toolBtn_Redo;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator11;

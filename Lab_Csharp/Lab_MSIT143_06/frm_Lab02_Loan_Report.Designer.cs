@@ -205,7 +205,7 @@ namespace Lab_MSIT143_06
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Lab02_Loan_Report";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "loan Report";
+            this.Text = "Loan Report";
             this.ResumeLayout(false);
             this.PerformLayout();
 

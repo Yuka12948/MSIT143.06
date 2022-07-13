@@ -309,7 +309,7 @@ namespace Lab_MSIT143_06
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Lab06_StudentsGradeList";
-            this.Text = "frm_Lab06_StudentsGradeList";
+            this.Text = "Students Grade List";
             this.splitContainer.Panel1.ResumeLayout(false);
             this.splitContainer.Panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer)).EndInit();

@@ -187,7 +187,7 @@ namespace Lab_MSIT143_06
             this.toolStripButton2.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
-            this.toolStripButton2.Size = new System.Drawing.Size(44, 49);
+            this.toolStripButton2.Size = new System.Drawing.Size(44, 44);
             this.toolStripButton2.Text = "關閉 Close";
             this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
@@ -216,7 +216,7 @@ namespace Lab_MSIT143_06
             this.eIXTToolStripMenuItem.Text = "EIXT";
             this.eIXTToolStripMenuItem.Click += new System.EventHandler(this.eIXTToolStripMenuItem_Click);
             // 
-            // frm_Lab10_TicTacToe
+            // frm_Lab10
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -237,9 +237,9 @@ namespace Lab_MSIT143_06
             this.MainMenuStrip = this.menuStrip1;
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
-            this.Name = "frm_Lab10_TicTacToe";
+            this.Name = "frm_Lab10";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Tic-tac-toe";
+            this.Text = "Have BUG !!!";
             this.toolStrip1.ResumeLayout(false);
             this.toolStrip1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);

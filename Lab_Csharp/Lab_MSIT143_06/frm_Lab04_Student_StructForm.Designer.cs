@@ -272,7 +272,7 @@ namespace Lab_MSIT143_06
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Lab04_Student_StructForm";
-            this.Text = "Frm_Student_StructForm";
+            this.Text = "Student Struct Form";
             this.Gbox_Grade.ResumeLayout(false);
             this.Gbox_KeyIn.ResumeLayout(false);
             this.Gbox_KeyIn.PerformLayout();

@@ -360,7 +360,7 @@ namespace Lab_MSIT143_06
             this.MinimumSize = new System.Drawing.Size(1280, 720);
             this.Name = "frm_Lab00_OpenMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "OpenMenu";
+            this.Text = "Open Menu";
             this.splitContainer.Panel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer)).EndInit();
             this.splitContainer.ResumeLayout(false);

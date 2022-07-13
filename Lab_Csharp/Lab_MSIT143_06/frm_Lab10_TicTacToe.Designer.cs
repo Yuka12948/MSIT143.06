@@ -74,7 +74,7 @@ namespace Lab_MSIT143_06
             this.tSBtn_Exit.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
             this.tSBtn_Exit.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.tSBtn_Exit.Name = "tSBtn_Exit";
-            this.tSBtn_Exit.Size = new System.Drawing.Size(44, 43);
+            this.tSBtn_Exit.Size = new System.Drawing.Size(44, 52);
             this.tSBtn_Exit.Text = "Close";
             this.tSBtn_Exit.Click += new System.EventHandler(this.TSBtn_Exit_Click);
             // 
@@ -215,7 +215,7 @@ namespace Lab_MSIT143_06
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.MaximizeBox = false;
             this.Name = "frm_Lab10_TicTacToe";
-            this.Text = "TicTacToe";
+            this.Text = "Tic-Tac-Toe";
             this.toolStrip.ResumeLayout(false);
             this.toolStrip.PerformLayout();
             this.ResumeLayout(false);

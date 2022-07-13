@@ -417,7 +417,7 @@ namespace Lab_MSIT143_06
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Lab09_ForDoWhile";
-            this.Text = "frm_Lab09_ForDoWhile";
+            this.Text = "For Do While";
             this.ResumeLayout(false);
             this.PerformLayout();
 
