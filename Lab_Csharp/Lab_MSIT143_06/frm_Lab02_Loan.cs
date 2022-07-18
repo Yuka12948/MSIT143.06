@@ -136,7 +136,7 @@ namespace Lab_MSIT143_06
         {
             //只能數字鍵.退格鍵
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 8)
-            e.Handled = true;
+                e.Handled = true;
         }
 
         private void txt_03_KeyPress(object sender, KeyPressEventArgs e)

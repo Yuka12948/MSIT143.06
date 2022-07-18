@@ -56,23 +56,23 @@ namespace Lab_MSIT143_06
             if (check == DialogResult.Yes)
             {
                 MessageBox.Show("基本資料已儲存完畢!");
-                txt_Name.Clear();
-                txt_ID.Clear();
-                date_Picker.Value = DateTime.Today;
-                rBtn_male.Checked = false;
-                rBtn_female.Checked = false;
-                lab_IDCorrect.Text = "";
+                clear();
             }
             else
             {
                 MessageBox.Show("請重新輸入基本資料");
-                txt_Name.Clear();
-                txt_ID.Clear();
-                date_Picker.Value = DateTime.Today;
-                rBtn_male.Checked = false;
-                rBtn_female.Checked = false;
-                lab_IDCorrect.Text = "";
+                clear();
             }
+        }
+
+        private void clear()
+        {
+            txt_Name.Clear();
+            txt_ID.Clear();
+            date_Picker.Value = DateTime.Today;
+            rBtn_male.Checked = false;
+            rBtn_female.Checked = false;
+            lab_IDCorrect.Text = "";
         }
 
         private void btn_Enter_MouseMove(object sender, MouseEventArgs e)
