@@ -31,8 +31,6 @@ namespace Lab_MSIT143_06
         {
             frm_Lab15_GuessNumber GN = new frm_Lab15_GuessNumber();
             GN.Owner = this; 
-            //GN.TopLevel = true;
-            GN.StartPosition = FormStartPosition.CenterParent;
             GN.ShowDialog();
         }
 

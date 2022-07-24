@@ -27,12 +27,12 @@ namespace Lab_MSIT143_06
             lab_GetTime.Text = DateTime.Now.ToString("HH:mm:ss"); //頁面載入時獲取當前時間
         }
 
-        bool b = false; //記錄時間是否到了
+        bool b = false; //記錄時間是否相同
 
         private void timer_Tick(object sender, EventArgs e)
         {
-            lab_GetTime.Text = DateTime.Now.ToString("HH:mm:ss"); //timer每一秒執行一次更新一次值
-            if (b == false) //時間沒到,進行一次判斷
+            lab_GetTime.Text = DateTime.Now.ToString("HH:mm:ss"); //timer每秒執行更新一次
+            if (b == false) //時間不同 >> 進行判斷
             {
                 if (h == DateTime.Now.Hour)
                 {
@@ -40,12 +40,12 @@ namespace Lab_MSIT143_06
                     {
                         if (s == DateTime.Now.Second)
                         {
-                            b = true; //時間剛好到了
+                            b = true; //時間相同
                             SoundPlayer sound = new SoundPlayer();
                             sound.SoundLocation = "IU-You&I.wav";
-                            //sound.SoundLocation = @"E:\MSIT_143_06_Csharp\Lab_Csharp\Lab_Y01\bin\Debug\IU-Good day.wav";
+                            //sound.SoundLocation = "IU-Good day.wav";
                             sound.Play();
-                            DialogResult check = MessageBox.Show("該起床囉~~~", "Alarm", MessageBoxButtons.OK);
+                            DialogResult check = MessageBox.Show("太陽曬屁股囉~~~", "Alarm", MessageBoxButtons.OK);
                             if (check == DialogResult.OK)
                             {
                                 sound.Stop();

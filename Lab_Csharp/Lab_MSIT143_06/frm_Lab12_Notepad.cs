@@ -292,10 +292,11 @@ namespace Lab_MSIT143_06
                             $"Yuka. 著作權所有，敬請安心使用。\n\n" +
                             $"使用者介面依照個人喜好設計，不好用也沒得抱怨，謝謝。", "關於 Notepad");
         }
+
         #region
         //參考網頁(全功能) https://iter01.com/144183.html
         //參考網頁(註解詳細) https://tw511.com/a/01/29862.html
-        // 參考網頁 Richtextbox https://www.796t.com/content/1549223310.html
+        // 參考網頁(Richtextbox) https://www.796t.com/content/1549223310.html
         #endregion
     }
 }

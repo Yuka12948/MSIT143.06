@@ -71,7 +71,8 @@ namespace Lab_MSIT143_06
             // btn_Enter
             // 
             this.btn_Enter.BackColor = System.Drawing.Color.DimGray;
-            this.btn_Enter.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_Enter.FlatAppearance.BorderSize = 0;
+            this.btn_Enter.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_Enter.Font = new System.Drawing.Font("Impact", 20F);
             this.btn_Enter.ForeColor = System.Drawing.Color.White;
             this.btn_Enter.Location = new System.Drawing.Point(411, 547);
@@ -175,7 +176,8 @@ namespace Lab_MSIT143_06
             // btn_JOKE
             // 
             this.btn_JOKE.BackColor = System.Drawing.Color.DimGray;
-            this.btn_JOKE.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
+            this.btn_JOKE.FlatAppearance.BorderSize = 0;
+            this.btn_JOKE.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn_JOKE.Font = new System.Drawing.Font("Impact", 20F);
             this.btn_JOKE.ForeColor = System.Drawing.Color.White;
             this.btn_JOKE.Location = new System.Drawing.Point(504, 547);

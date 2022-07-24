@@ -18,10 +18,6 @@ namespace Lab_MSIT143_06
             InitializeComponent();
         }
 
-        #region
-        // 參考 https://www.youtube.com/watch?v=p3gYVcggQOU&t=632s
-        #endregion
-
         bool OXturn = true; //true = 沒變 false = 有變
         int turnCount = 0;
 
@@ -44,7 +40,7 @@ namespace Lab_MSIT143_06
 
         private void TSBtn_Exit_Click(object sender, EventArgs e)
         {
-            this.Close(); //關閉
+            this.Close();
         }
 
         private void button_click(object sender, EventArgs e)
@@ -60,7 +56,6 @@ namespace Lab_MSIT143_06
             b.Enabled = false;
 
             turnCount++;
-
             CheckForWinner();
         }
 
@@ -74,19 +69,16 @@ namespace Lab_MSIT143_06
                 IsWinner = true;
             else if ((Btn_C1.Text == Btn_C2.Text) && (Btn_C2.Text == Btn_C3.Text) && (!Btn_C1.Enabled))
                 IsWinner = true;
-
             else if ((Btn_A1.Text == Btn_B1.Text) && (Btn_B1.Text == Btn_C1.Text) && (!Btn_A1.Enabled))
                 IsWinner = true;
             else if ((Btn_A2.Text == Btn_B2.Text) && (Btn_B2.Text == Btn_C2.Text) && (!Btn_A2.Enabled))
                 IsWinner = true;
             else if ((Btn_A3.Text == Btn_B3.Text) && (Btn_B3.Text == Btn_C3.Text) && (!Btn_A3.Enabled))
                 IsWinner = true;
-
             else if ((Btn_A1.Text == Btn_B2.Text) && (Btn_B2.Text == Btn_C3.Text) && (!Btn_A1.Enabled))
                 IsWinner = true;
             else if ((Btn_A3.Text == Btn_B2.Text) && (Btn_B2.Text == Btn_C1.Text) && (!Btn_C1.Enabled))
                 IsWinner = true;
-
 
             if(IsWinner)
             {
@@ -119,5 +111,10 @@ namespace Lab_MSIT143_06
             }
             catch { }
         }
+
+        #region
+        // 參考 https://www.youtube.com/watch?v=p3gYVcggQOU&t=632s
+        #endregion
+
     }
 }

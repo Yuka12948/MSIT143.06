@@ -96,6 +96,7 @@ namespace Lab_MSIT143_06
             this.Location = new System.Drawing.Point(500, 700);
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.Name = "frm_Lab15_GuessNumber";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Guess A Number";
             this.ResumeLayout(false);
             this.PerformLayout();
